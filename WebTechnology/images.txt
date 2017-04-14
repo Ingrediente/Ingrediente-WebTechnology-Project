@@ -1,0 +1,18 @@
+<div class="row" style="background-color:skyblue">
+				<div class="col-md-2">
+				</div>
+				<div class="col-md-8">
+					<div class="slide-box">
+						<ul class="list-group" id="slide">
+							<li class="list-group-item"><img width="600px" height="400px" class="slideItem" alt="1" src="img/5.jpg"></li>
+							<li class="list-group-item"><img width="600px" height="400px" class="slideItem" alt="2" src="img/6.jpg"></li>
+							<li class="list-group-item"><img width="600px" height="400px" class="slideItem" alt="3" src="img/4.jpg"></li>
+							<li class="list-group-item"><img width="600px" height="400px"  class="slideItem" alt="4" src="img/8.jpg"></li>
+						</ul>
+						<button class="btn btn-success previous" id="prev">Previous</button>
+						<button class="btn btn-danger next" id="next">Next</button>
+					</div>
+				</div>
+				<div class="col-md-2">
+				</div>
+			</div>

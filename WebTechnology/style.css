@@ -1,0 +1,16 @@
+.slide-box{
+	position:relative;
+}
+.previous {
+	position:absolute;
+	bottom:25px;
+	left:30px;
+}
+.next {
+	position:absolute;
+	bottom:25px;
+	right:30px;
+}
+.slideItem {
+	width:100%;
+}

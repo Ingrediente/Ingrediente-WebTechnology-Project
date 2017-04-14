@@ -1,0 +1,14 @@
+<div class="col-md-8" style="background-color:#F2F5A9;left:80px">
+					<form style="background-color:#F2F5A9;" >
+						<div class="form-group"><input class="form-control" type="text" id="food" onkeyup="obj.getFood(); document.getElementById('c').style.removeProperty('display')" /></div>
+						<div class="form-group"><button class="btn btn-success" onclick="FoodMap()"/>SEARCH</button></div>
+						<div  style="height:80px; overflow:auto" id="c" ></div>
+						
+					</form>
+					
+				</div>
+		<div class="col-md-2" style="background-color:#F2F5A9;">
+		</div>		
+			<div class="page-header" style="text-align:center;color:#DF3A01;background-color:#F2F5A9;">
+				<br/><h1 style=" font-size:70px">Images</h1>
+			</div>
